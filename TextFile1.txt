@@ -1,0 +1,10 @@
+1.
+OOP - NYP
+
+2.
+OOP Özellikleri
+1.Encapsulation - sarmalama
+2.Inheritence - Kalýtým
+3.Polymorphism - Çok biçimlilik
+------------------------
+4. Abstraction - soyutlama (herkes tarafýndan kabul görmüyor)
